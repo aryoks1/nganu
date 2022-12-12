@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6282265468133@s.whatsapp.net","6289514958932@s.whatsapp.net"],
+    "ownerName": "yoyok",
+    "instagram" : "https://instagram.com/aryaeka.r.p",
+    "botName": "yoks",
+    "footer": "api.zeeoneofc.xyz",
+    "sessionName": "session",
+    "pathimg": "./media/haruka.png",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 2500,
+    "gcount": {
+        "prem": 10000,
+        "user": 15
+    }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "jid": "6282265468133@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#speed",
+        "count": 1
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      },
+      {
+        "nama": "#waifu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6288983632076@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#infobot",
+        "count": 1
+      }
+    ]
+  }
+]
